@@ -8,6 +8,7 @@
 // }
 
 // let shohijahon = new User("shohijahon", 16, 55);
+// console.log(shohijahon);
 
 // 2
 // function  User(name, age, weight) {
@@ -17,8 +18,8 @@
 // }
 
 // let jordi = new User("jordi", 30, 60)
-
 // jordi.nat = "Ciudad Real, Castilla-La"
+// console.log(jordi);
 
 // 3
 // function User(name, age, weight) {
@@ -28,6 +29,7 @@
 // }
 
 // let david = new User("david", 54, 100);
+// console.log(david);
 
 // 4
 // function User (name, age, weight) {
@@ -37,6 +39,7 @@
 // }
 
 // let Alex = new User("Alex", 20, 60);
+// console.log(Alex);
 
 
 // 5
@@ -47,8 +50,8 @@
 // }
 
 // let Tom = new User("Tom", 12, 25);
-
 // Tom.phone = "+998911146476"
+// console.log(Tom);
 
 
 ////////////////////5 ta class ga oid misol yozish/////////////////////////////////
@@ -65,6 +68,7 @@
 // }
 
 // let shohijahon = new User("shohijahon", 16, 55);
+// console.log(shohijahon);
 
 // 2
 // class  User{
@@ -79,6 +83,7 @@
 // let jordi = new User("jordi", 30, 60)
 
 // jordi.nat = "Ciudad Real, Castilla-La"
+// console.log(jordi);
 
 // 3
 // class User{
@@ -90,6 +95,7 @@
 // }
 
 // let david = new User("david", 54, 100);
+// console.log(david);
 
 
 // 4
@@ -103,6 +109,7 @@
 // }
 
 // let Alex = new User("Alex", 20, 60);
+// console.log(Alex);
 
 
 // 5
@@ -117,6 +124,7 @@
 // let Tom = new User("Tom", 12, 25);
 
 // Tom.phone = "+998911146476"
+// console.log(Tom);
 
 
 
